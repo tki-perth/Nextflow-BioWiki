@@ -32,7 +32,7 @@ This Biowiki page is intended to be a one-stop solution for getting started with
 
 <br>
 
-* [Seminarslides](./Seminars/_slides) :clipboard:
+* [Seminar Slides](./Seminars/_slides) :clipboard:
 
     * [Seminar 1](./Seminars/_slides/01_Seminar.pdf)
     * [Seminar 6](./Seminars/_slides/06_Seminar_atacseq.pdf)
@@ -40,7 +40,7 @@ This Biowiki page is intended to be a one-stop solution for getting started with
 
 <br>
 
-* [SeminarCode](./SeminarCode) :computer:
+* [Seminar Code](./SeminarCode) :computer:
     * [Seminar 1](./SeminarCode/01_seminar.md)
     * [Seminar 3](./SeminarCode/03_seminar.md)
 	* [Seminar 4](./SeminarCode/04_seminar.md)
@@ -49,7 +49,7 @@ This Biowiki page is intended to be a one-stop solution for getting started with
 
 <br>
  
-* [HackyHours](./HackyHours) :books:
+* [Hacky Hours](./HackyHours) :books:
 
     * [Installing Nextflow and nf-core](./HackyHours/01_Installing_Nextflow_and_NF_Core.md)
     * [Customising configurations](./HackyHours/02_Customising_Configurations.md)

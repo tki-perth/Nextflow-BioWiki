@@ -1,0 +1,21 @@
+#https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Agudelo-Romero"
+  given-names: "Patricia"
+  orcid: "https://orcid.org/0000-0002-3703-4111"
+- family-names: "Conradie"
+  given-names: "Talya"
+  orcid: "https://orcid.org/0009-0007-6380-5737"
+- family-names: "Caparros-Martin"
+  given-names: "Jose"
+  orcid: "https://orcid.org/0009-0007-6380-5737"
+- family-names: "Sharma"
+  given-names: "Abhinav"
+  orcid: "https://orcid.org/0000-0002-6402-6993"
+
+title: "Nextflow-BioWiki"
+version: 1.0.0
+date-released: 2023-09-15
+url: "https://github.com/TelethonKids/Nextflow-BioWiki"
